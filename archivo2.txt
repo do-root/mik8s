@@ -1,0 +1,3 @@
+new file:   archivo1.txt
+(use "git rm --cached <file>..." to unstageestageefffff
+fffffffff
